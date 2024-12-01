@@ -31,6 +31,8 @@ const hitungMundur = setInterval(function() {
     }
 }, 100);
 
+
+
 function setup() {
     createCanvas(windowWidth, windowHeight);
 }
